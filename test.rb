@@ -5,3 +5,4 @@ class Player
    end
 end
 
+puts "bla-bla"

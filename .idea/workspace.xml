@@ -4,7 +4,7 @@
     <list default="true" id="0d973a0f-badd-48a5-b118-d28fb51092f9" name="Default" comment="" />
     <ignored path="git_test.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/test.rb" changelist="0d973a0f-badd-48a5-b118-d28fb51092f9" time="1370534927250" ignored="false" />
+    <file path="/test.rb" changelist="0d973a0f-badd-48a5-b118-d28fb51092f9" time="1370535265171" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="test.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.27293578">
+            <state line="7" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.27293578">
               <folding />
             </state>
           </provider>
@@ -267,7 +267,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.27293578">
+        <state line="7" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.27293578">
           <folding />
         </state>
       </provider>
